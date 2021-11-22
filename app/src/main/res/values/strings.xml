@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">4K Full Wallpapers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="full_wallpapers">4k Full\nWallpapers</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_random">Random</string>
+    <string name="menu_liked">Liked</string>
+    <string name="menu_history">History</string>
+    <string name="menu_about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_search">Search</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="retry_text">retry</string>
+    <string name="no_result_for_query">No results found for this query</string>
+    <string name="results_no_load">Results could not be load</string>
+    <string name="no_like">No Liked Photos</string>
+</resources>
